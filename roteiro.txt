@@ -1,0 +1,6 @@
+
+-tela resumo
+-tela partidas
+-tela adversários
+-tela times
+-tela times por adversário
